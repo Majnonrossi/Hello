@@ -10,7 +10,7 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 
 //---------[ Añada los numeros a ser Propietario/a ]---------
 
-global.owner = [['573147616444', 'ＰＲＯＰＩＥＴＡＲＩＯ', true], ['593968585383'], ['5492266466080'], ['5492266613038'], ['5491155983299'], ['595986172767'], ['5492964650915']]
+global.owner = [['212641207087', 'majnon', true], ['212660958030'], ['212705776824'], ['212641207087'], ['212641207087'], ['212641207087'], ['212641207087']]
 global.mods = []
 global.prems = []
 
@@ -23,7 +23,7 @@ global.confirmCode = ""
 //es = Español         id = Bahasa Indonesia
 //en = English         pt = Português
 //ar = عرب 
-global.lenguajeGB = es  
+global.lenguajeGB = en  
 
 //---------[ APIS GLOBAL ]---------
 
